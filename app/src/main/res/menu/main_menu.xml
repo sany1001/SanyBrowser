@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/hist"
+        android:title="History"/>
+    <item
+        android:id="@+id/download"
+        android:title="Downloads" />
+    <item
+        android:id="@+id/exitm"
+        android:title="Exit" />
+</menu>
